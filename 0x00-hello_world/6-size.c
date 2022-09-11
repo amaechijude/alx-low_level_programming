@@ -1,11 +1,8 @@
 #include <stdio.h>
-/**
- *
- *  *  main = Starting point
- *
- *    *  Returns = 0 (Success)
- *
- *     */
+/*
+ * main = Starting point
+ * Returns = 0 (Success)
+ * */
 
 int main(void)
 {
