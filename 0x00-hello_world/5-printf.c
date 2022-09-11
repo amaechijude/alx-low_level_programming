@@ -1,5 +1,9 @@
-include <stdio.h>
-int main()
+#include <stdio.h>
+/*
+ * Print a statement
+ * Set return to 0
+ * */
+int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 
