@@ -2,11 +2,12 @@
 /*
  * main - Prints '_printchar' followed by a new line
  *
- * Return 0 if no error is present
+ * Return 0 if no error is problem
  */
+#include <main.h>
 int main(void)
 {
-	printf(_putchar\n);
+	putchar(_putchar\n);
 
 	return (0);
 }
