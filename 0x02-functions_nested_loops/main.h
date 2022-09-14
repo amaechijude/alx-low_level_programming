@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 /*
- * main - Prints '_printchar' followed by a new line
+ * main - Prints "putchar" followed by a new line.
  *
- * Return 0 if no error is problem
+ * Return: Always 0.
  */
-#include "holberton.h"
 int main(void)
 {
 	_putchar('_');
